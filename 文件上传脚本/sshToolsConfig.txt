@@ -1,0 +1,13 @@
+[local]
+basicpath = C:\Users\17854\Pictures\imgTemp
+
+[remote]
+basicpath = /home/vsftpd/
+relativepath = test07
+
+[ssh]
+host = root@maoerfei.cn
+
+[nginx]
+url = http://maoerfei.cn:8000/
+
